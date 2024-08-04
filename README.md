@@ -7,4 +7,11 @@ The data consist of 12 columns and 32,941 rows. Nine of the columns are in text 
 ## Methodology
 The data was cleaned with Power Query and it was visualized with Microsoft Power BI. Cleanong was done particularly on the call_times column where I used locale to correctly get the date, time and day that each call was made.
 ## Results
-Approximately 33,000 calls were made and the average duration of the call was 25 minutes. The most used call channel was the Call Center and the least was Web. Most of the calls were responded to within SLA which indicated that very little customers called were delayed suggesting that improvements can still be done. However, most of the feedbacks obtained from the customers are negative indicating that either their problems were not solved or they were not responded to properly. 71.22% of the customers called to enquire about Billing, it could be as a result of unexpected deductions or other reasons and this can be curtailed by sending SMS or mails to the customers as to why they were billed. The least calls came from customers who complained about Service Outage (14.36%).
+Approximately 33,000 calls were made and the average duration of the call was 25 minutes. The most used call channel was the Call Center and the least was Web. Most of the calls were responded to within SLA which indicated that very little customers called were delayed suggesting that improvements can still be done. However, most of the feedbacks obtained from the customers are negative indicating that either their problems were not solved or they were not responded to properly. 71.22% of the customers called to enquire about Billing, it could be as a result of unexpected deductions or other reasons and this can be curtailed by sending SMS or mails to the customers as to why they were billed. The least calls came from customers who complained about Service Outage (14.36%). 
+The Call Center slicer can be used to obtain visuals from each of the four Call Centers.
+## Conclusion
+The objective of this project was achieved as hidden insights were unlocked which can aid strategic decisions to be taken.
+### Tools Used 
+- Microsoft Excel
+- Power Query
+- Power BI
